@@ -83,13 +83,13 @@ https://www.hackers-arise.com/post/osint-google-hacking-and-dorks-to-find-key-in
 BEFORE ANYTHING FANCY: google the address in quotes “” 
 One time I spent hours trying to reverse a chain of BTC transactions. One google search like this cracked the case. Save yourself some time :)
 
-https://www.bitcoinabuse.com/ - database of malicious BTC addresses
+[https://www.bitcoinabuse.com/](url) - database of malicious BTC addresses
 
-Blockchain.info - blockchain address lookup
+[https://blockchain.info/](url) - blockchain address lookup
 
-walletexplorer.com - BTC wallet and address tool. Tie an address to a wallet
+[https://walletexplorer.com/](url) - BTC wallet and address tool. Tie an address to a wallet
 
-https://www.bitcoinwhoswho.com/ - BTC reputation report + public listings
+[https://www.bitcoinwhoswho.com/](url) - BTC reputation report + public listings
 
 
 **Command Line Must Haves**
