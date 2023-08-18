@@ -3,9 +3,9 @@ This is a repository of FREE OSINT resources I have used throughout my time in i
 
 **Dark Web Investigations**
 
-ahmia.fi -my favorite tor search engine: usable from the surface web [requires tor to click on any of the results & blocks CSAM]
+[ahmia.fi](url) -my favorite tor search engine: usable from the surface web [requires tor to click on any of the results & blocks CSAM]
 
-dark.fail - a surface web index of popular onion links. Small collection but has real time detection if a link is down or not
+[dark.fail](url) - a surface web index of popular onion links. Small collection but has real time detection if a link is down or not
 
 OnionSearch [More in Command Line Must Haves]
 
