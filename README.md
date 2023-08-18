@@ -1,7 +1,7 @@
 # OSINT-Resources
 This is a repository of FREE OSINT resources I have used throughout my time in investigations. Happy Hunting!
 
-Dark Web Investigations
+**Dark Web Investigations**
 
 ahmia.fi -my favorite tor search engine: usable from the surface web [requires tor to click on any of the results & blocks CSAM]
 
@@ -9,7 +9,7 @@ dark.fail - a surface web index of popular onion links. Small collection but has
 
 OnionSearch [More in Command Line Must Haves]
 
-Usernames/People
+**Usernames/People**
 
 https://whatsmyname.app/ -username scan (runs a username through a bunch of different social media platforms. Useful, but make sure results are your target and not someone else with the same username)
 
@@ -20,7 +20,7 @@ https://www.whitepages.com/ -free information is super beneficial, addresses, ph
 https://thatsthem.com/ -  free people search engine [compatible with emails]
 
 
-Email Addresses
+**Email Addresses**
 
 https://thatsthem.com/ - People search engine, gives good information about emails, IPs, names, addresses, VIN numbers, and phone numbers
 
@@ -34,7 +34,7 @@ https://tools.epieos.com/ -great tool for emails (especially GMAIL)
 
 
 
-Domains
+**Domains**
 
 https://tools.iplocation.net/unshorten-url  - unshortens possibly malicious urls (shortening a url is a very common tactic for IP logging, ex: shorturl.at/fprP0 )
 
@@ -49,7 +49,7 @@ https://www.iana.org/whois - find public information about a given domain.
 https://tools.iplocation.net/ - suite of tools applicable to this domain
 
 
-IP Addresses
+**IP Addresses**
 
 https://earth.google.com/web/ -use coordinates from IP Geolocation, go into street view, and find the street address of an IP address
 
@@ -57,7 +57,7 @@ https://www.iplocation.net - Amazing collection of Networking tools. The ‘IP L
 
 https://www.abuseipdb.com - database of malicious IPs
 
-Images
+**Images**
 
 https://tineye.com/ - reverse image search (find if the image was posted anywhere else, if not its an authentic photograph)
 
@@ -66,7 +66,7 @@ http://pimeyes.com/ - reverse image search with AI facial recognition component 
 https://exifdata.com/ -EXIF data is the metadata behind photos. This tool extracts said data.
 
 
-Tool Collectives/Education
+**Tool Collections/Education**
 
 https://github.com/jivoi/awesome-osint  - Gigantic OSINT tool list. Includes websites, python tools, and more! 
 
@@ -78,7 +78,7 @@ https://www.hackers-arise.com/osint -great resource for learning advanced OSINT 
 
 https://www.hackers-arise.com/post/osint-google-hacking-and-dorks-to-find-key-information - Google Dork Tutorial and intro to GHDB (highly recommend)
 
-Cryptocurrency
+**Cryptocurrency**
 
 BEFORE ANYTHING FANCY: google the address in quotes “” 
 One time I spent hours trying to reverse a chain of BTC transactions. One google search like this cracked the case. Save yourself some time :)
@@ -92,7 +92,7 @@ walletexplorer.com - BTC wallet and address tool. Tie an address to a wallet
 https://www.bitcoinwhoswho.com/ - BTC reputation report + public listings
 
 
-Command Line Must Haves
+**Command Line Must Haves**
 
 https://github.com/sherlock-project/sherlock - Automated username scanner
 
@@ -108,12 +108,12 @@ https://github.com/sundowndev/phoneinfoga - phone number info gatherer
 
 https://github.com/megadose/OnionSearch - fantastic for dark web investigations **Make sure to set the proxy as 127.0.0.1:9150 and have TOR running.**
 
-Virtual Environment 
+**VM Recommendation**
 
 https://www.tracelabs.org/initiatives/osint-vm - TraceLabs VM 
 
 
-TIPS
+**Tips**
 
 OSINT job board (private sector): https://www.osint-jobs.com/
 
