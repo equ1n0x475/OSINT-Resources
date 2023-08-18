@@ -106,7 +106,7 @@ https://github.com/kpcyrd/sn0int - OSINT framework for easy pivots
 
 https://github.com/sundowndev/phoneinfoga - phone number info gatherer
 
-https://github.com/megadose/OnionSearch - fantastic for dark web investigations **Make sure to set the proxy as 127.0.0.1:9150 and have TOR running.**
+https://github.com/megadose/OnionSearch - fantastic for dark web investigations. Make sure to set the proxy as 127.0.0.1:9150 and have TOR running.
 
 **VM Recommendation**
 
